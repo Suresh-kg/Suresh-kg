@@ -73,27 +73,22 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
+### 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
+[![Suresh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suresh-kg&bg_color=0d1117&color=ffffff&line=02cf10&point=ffffff&area=true&hide_border=true)](https://github.com/Suresh-kg)
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Suresh-kg">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <!-- Add LinkedIn later -->
+  <a href="https://www.linkedin.com/in/sureshkrishna30">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
-
+https://skillicons.dev/icons?i=linkedin
 ---
 
 ⭐ **“Consistency beats talent when talent doesn’t work consistently.”**
