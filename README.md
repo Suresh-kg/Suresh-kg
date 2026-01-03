@@ -2,8 +2,7 @@
 <h3 align="center">Python Developer | Data Analyst | SQL Enthusiast</h3>
 
 <p align="center">
-  <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python</a> icon by
-  <a target="_blank" href="https://icons8.com">Icons8</a>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </p>
 
 ---
