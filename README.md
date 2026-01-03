@@ -30,13 +30,15 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
-### Modules
+
+### 📦 Modules & Libraries
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
   
 </p>
+
 ### 📊 Data Analysis & Visualization
 <p>
   <img src="https://skillicons.dev/icons?i=excel" />
