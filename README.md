@@ -2,8 +2,9 @@
 <h3 align="center">Python Developer | Data Analyst | SQL Enthusiast</h3>
 
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 ---
 
@@ -21,24 +22,35 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="<a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
-
+### Modules
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
+  
+</p>
 ### 📊 Data Analysis & Visualization
 <p>
   <img src="https://skillicons.dev/icons?i=excel" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
+  
 </p>
 
 ### 🧰 Libraries & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="64" height="64" src="https://img.icons8.com/sf-black/64/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 </p>
 
 ---
